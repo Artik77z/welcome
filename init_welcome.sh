@@ -13,3 +13,5 @@ fi
 \____|__  /__|   |__| |__|__|_ \_____/____/   /____/  /_____ \
         \/                    \/_____/                      \/'
     echo ' '
+
+echo 'Welcome to your Google Cloud Shell Artik!'
