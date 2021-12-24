@@ -15,3 +15,4 @@ fi
     echo ' '
 
 echo 'Welcome to your Google Cloud Shell Artik!'
+echo ' '
