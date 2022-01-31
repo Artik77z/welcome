@@ -14,5 +14,5 @@ fi
         \/                    \/_____/                      \/'
     echo ' '
 
-echo 'Welcome to your Google Cloud Shell Artik!'
+echo 'Welcome to your Workstation Artik!'
 echo ' '
