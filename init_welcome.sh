@@ -16,4 +16,3 @@ fi
 
 echo 'Welcome to your Workstation Artik!'
 echo ' '
-neofetch
