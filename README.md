@@ -53,3 +53,6 @@ chmod +x /etc/profile.d/init_welcome.sh
 ```
 
 Note: Replace URL/path/to/your/init_welcome.sh script with a publicly accessible bash script.
+
+## Result:
+<img src="./cloud-shell.PNG"/>
