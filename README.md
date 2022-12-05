@@ -10,7 +10,6 @@ This script is run as root when the VM is created.
 You could install packages, make configuration changes or just remove some of the things Google bakes into the image.
 
 When the script completes, the file /google/devshell/customize_environment_done is created. Log output is available at /var/log/customize_environment.
-Remove the Google sign-in message
 
 On every login to Cloud Shell, you will see the following:
 
