@@ -1,6 +1,8 @@
 # Google Cloud Computing (GCP) Shell init script
 A script to customize the Shell environment.
 
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RuPu3onI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/wg4psks0095bmvergbpr.png"/>
+
 ## Custom Startup Script (.customize_environment)
 
 If you find yourself needing tools or packages that aren't included in the list of packages that Cloud Shell has pre-installed, create a file called .customize_environment in your $HOME directory.
