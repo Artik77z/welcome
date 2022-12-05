@@ -40,7 +40,7 @@ Customise the login message
 
 To add a custom welcome message, you just need to copy in a bash script to /etc/profile.d/ that will get executed on login.
 
-However, when the script runs it does not have access to the $HOME directory so any scripts will need to be hosted externally.
+However, when the script runs it does not have access to the $HOME directory so any scripts will need to be hosted externally, like i'm doing right now with github.
 
 Add code similar to this to your .customize_environment file:
 ```
