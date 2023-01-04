@@ -44,7 +44,7 @@ To add a custom welcome message, you just need to copy in a bash script to /etc/
 
 However, when the script runs it does not have access to the $HOME directory so any scripts will need to be hosted externally, like i'm doing right now with github.
 
-Add code similar to this to your .customize_environment file:
+Add similar code to your .customize_environment file:
 ```
 #!/bin/sh
 echo 'Getting custom login message script...'
